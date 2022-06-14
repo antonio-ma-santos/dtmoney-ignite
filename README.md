@@ -1,6 +1,7 @@
 <h1 align="center">dtmoney</h1>
 
-<img src="src/assets/pokedex.gif" alt="gif do site">
+<img src="src/assets/Screenshot.png" alt="imagem da home">
+<img src="src/assets/Screenshot2.png" alt="imagem da modal para adicionar uma transação">
 
 > Site de controle financeiro.
 
