@@ -7,7 +7,7 @@
 
 ## :page_facing_up: Explicação
 
-O projeto foi desenvolvido utilizando o framework [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html), [Styled-Components](https://styled-components.com/) para estilização da aplicação e [MirageJS](https://miragejs.com/docs/getting-started/introduction/) para simular uma api e consumir as transações do back-end.
+O projeto foi desenvolvido utilizando a biblioteca [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html), [Styled-Components](https://styled-components.com/) para estilização da aplicação e [MirageJS](https://miragejs.com/docs/getting-started/introduction/) para simular uma api e consumir as transações do back-end.
 
 ## ⚔️ Desafio
 
